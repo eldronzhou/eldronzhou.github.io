@@ -6,8 +6,5 @@ sitemap: false
 permalink: /teaching
 ---
 
-TBA
+TBA BIOL59500IB Introduction to Biostatistics 
 
-BIOL59500IB Introduction to Biostatistics 
-
--->
