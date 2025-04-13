@@ -1,5 +1,5 @@
 ---
-title: "HLi Lab - Software"
+title: "Zhou Lab - Software"
 layout: textlay
 excerpt: "Software and Resources"
 sitemap: false
@@ -14,8 +14,8 @@ Our lab developed.
 
 #### Current
 
-* [BWA][sw-bwa]: widely used short-read aligner,
-  published in [Li and Durbin (2009)][pub-bwa1], [Li and Durbin (2010)][pub-bwa2] and [Li (2013)][pub-bwa3].
+* [test][sw-bwa]: test,
+  published in [test][pub-bwa1].
 
 [sw-gwfa]: https://github.com/lh3/gwfa
 
