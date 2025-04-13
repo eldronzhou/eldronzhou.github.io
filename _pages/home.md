@@ -11,11 +11,11 @@ Our groups develop and apply novel computational and statistical methods to addr
 <!--
 -->
 
-We are part of the [department of Biological Sciences][purduebio] and the [department of Statistics][purduestat] at Purdue University. We are also
+We are part of the [Department of Biological Sciences][purduebio] and the [Department of Statistics][purduestat] at Purdue University. We are also
 part of the university wide Social-genomics initiative. 
 <!--
 -->
 
 [purduebio]: https://www.bio.purdue.edu
-[[purduestat]: https://www.stat.purdue.edu
+[purduestat]: https://www.stat.purdue.edu
 [github]: https://github.com/eldronzhou

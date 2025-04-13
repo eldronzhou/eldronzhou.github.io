@@ -1,10 +1,10 @@
 - name: Geyu Zhou
-  photo: default.jpg
+  photo: geyu.jpg
   info: |
     Assistant Professor, started Aug 2024.
     Email: <a href="mailto:zhou1633@purdue.edu">zhou1633@purdue.edu</a>
   number_educ: 3
-  education1: Postdoc with <a href="https://ysph.yale.edu/profile/hongyu-zhao/">Hongyu Zhao</a>, <a href="https://ysph.yale.edu/profile/hongyu-zhao/">Yale</a>, USA
-  education2: PhD with <a href="https://zhaocenter.org/">Hongyu Zhao</a>, <a href="https://zhaocenter.org/">ITP</a>, USA
-  education3: BSc, <a href="https://www.nju.edu.cn/EN/">Nanjing University</a>, China
+  education1: 2022-2024 Postdoc with <a href="https://ysph.yale.edu/profile/hongyu-zhao/">Hongyu Zhao</a>, <a href="https://ysph.yale.edu/public-health-research-and-practice/department-research/biostatistics/">Yale Biostatistics</a>, USA
+  education2: 2017-2022 PhD with <a href="https://ysph.yale.edu/profile/hongyu-zhao/">Hongyu Zhao</a>, <a href="https://cbb.yale.edu">Yale Computational Biology and Bioinformatics (CBB)</a>, USA
+  education3: 2013-2017 BSc in Biology, <a href="https://www.nju.edu.cn/EN/">Nanjing University</a>, China
 
