@@ -1,7 +1,7 @@
 ---
-title: "HLi Lab - Team"
+title: "Zhou lab - Team"
 layout: gridlay
-excerpt: "HLi Lab: Team members"
+excerpt: "Zhou Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
