@@ -10,7 +10,7 @@ permalink: /publications/
 
 # Selected Publications
 
-(See also [Google Scholar](https://scholar.google.com/citations?user=7ZJF_KcAAAAJ&hl=en); star for equal contribution)
+(See full list at [Google Scholar](https://scholar.google.com/citations?user=7ZJF_KcAAAAJ&hl=en); star for equal contribution; <sup>&#8224;</sup> for corresponding authors; bold fontface for lab members/interns)
 
 <ul>
 {% for publi in site.data.recentpub %}
