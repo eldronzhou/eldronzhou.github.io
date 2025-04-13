@@ -3,7 +3,7 @@ title: "Zhou Lab - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /openings
 ---
 
 Please [contact us](mailto:zhou1633@purdue.edu) if you are interested in
