@@ -7,7 +7,7 @@ permalink: /openings
 ---
 
 Please [contact us](mailto:zhou1633@purdue.edu) if you are interested in
-our group.
+our group. 
 
 # Postdoc
 
@@ -21,7 +21,7 @@ Highly motivated graduate students in the departments of biological sciences, st
 
 # Undergraduate and Master Students
 
-If you are interested in computational biology, you are always welcome to our group. Dr. Zhou has mentored 8 undergraduate and master students in the past 3 years, 4 of them are currently or offered to be enrolled in the graduate program (4 PhD of statistics/computational biology and 1 master of data science) in US. Feel free to contact us if you want to know what research looks like.
+If you are interested in computational biology, you are always welcome to our group. Dr. Zhou has mentored 8 undergraduate and master students in the past 3 years, 4 of them are currently enrolled or admitted to the graduate program (4 PhD of statistics/computational biology and 1 master of data science) in US. Feel free to contact us if you want to know what research looks like.
 
 <!--
 If you are interested in the following positions, please [email your
