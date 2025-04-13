@@ -1,6 +1,7 @@
 The MIT License
 
-Copyright (c) 2018      HLi Lab
+Copyright (c) 2025 Zhou Lab
+	      2018-2025      HLi Lab
               2015-2018 Allan Lab
 
 Permission is hereby granted, free of charge, to any person obtaining
