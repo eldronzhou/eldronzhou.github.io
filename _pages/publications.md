@@ -1,0 +1,26 @@
+---
+title: "Zhou Lab - Publications"
+layout: gridlay
+excerpt: "Zhou Lab -- Publications"
+sitemap: false
+permalink: /publications/
+---
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+# Selected Publications
+
+(See also [Google Scholar](https://scholar.google.com/citations?user=7ZJF_KcAAAAJ&hl=en); star for equal contribution)
+
+<ul>
+{% for publi in site.data.recentpub %}
+<li>
+{{ publi.authors }} ({{ publi.year }}) {{ publi.title }}. <a href="{{ publi.url }}">{{ publi.display }}</a>.
+[PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ publi.pmid }}">{{ publi.pmid }}</a>]
+<span style="display:inline-block;" class="__dimensions_badge_embed__" data-pmid="{{ publi.pmid }}" data-style="small_rectangle"></span>
+<!--
+[<a href="https://badge.dimensions.ai/details/pmid/{{ publi.pmid }}">Citations</a>]
+-->
+</li>
+{% endfor %}
+</ul>
