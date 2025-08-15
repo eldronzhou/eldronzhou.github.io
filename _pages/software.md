@@ -14,7 +14,7 @@ We actively maintain the software developed by us. If you have questions regardi
 
 #### Current
 
-* [SDPR-admix][sdpr-admix]: A statistical method to calculate PRS in admixed population. Unpublished.
+* [SDPR-admix][sdpr-admix]: A statistical method to calculate PRS in admixed population, published in [AJHG][pub-sdpr-admix].
 
 * [BayesMEModel][bayesme]: A Bayesian Approach to Correcting the Attenuation Bias of Regression Using Polygenic Risk Score, published in [Genetics][pub-bayesme].
 
@@ -27,6 +27,7 @@ We actively maintain the software developed by us. If you have questions regardi
 [SDPR]: https://github.com/eldronzhou/SDPR
 [bayesme]: https://github.com/xinyueq/BayesMEModel
 
+[pub-sdpr-admix]: https://pubmed.ncbi.nlm.nih.gov/40633541/
 [pub-bayesme]: https://academic.oup.com/genetics/advance-article-abstract/doi/10.1093/genetics/iyaf018/7994627
 [pub-sdprx]: https://pmc.ncbi.nlm.nih.gov/articles/PMC9892700/ 
 [pub-sdpr]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8341714/  

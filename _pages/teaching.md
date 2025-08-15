@@ -6,5 +6,5 @@ sitemap: false
 permalink: /teaching
 ---
 
-TBA BIOL59500IB Introduction to Biostatistics 
+Fall 2025 BIOL59500IB Introduction to Biostatistics 
 
